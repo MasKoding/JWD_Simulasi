@@ -1,0 +1,15 @@
+.bg-custom{
+    background-color: rgb(30, 111, 240)!important;
+}
+.card-bg-title{
+    width: 100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    background-color:rgba(11, 78, 221, 0.2);
+}
+
+.img-custom{
+   width: 45%;
+   
+}
